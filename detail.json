@@ -1,15 +1,6 @@
-[
 student1
 {
 "name":"rahul",
 "age":20,
 "DOB":"26.03.2003"
-},
-student2
-{
-"name":"ram",
-"age":20,
-"DOB":"20.04.2003"
 }
-
-]
