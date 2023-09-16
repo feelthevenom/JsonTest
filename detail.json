@@ -1,10 +1,8 @@
+[
 {
-"Vehicle_ID": 1,
-"Engine_RPM": 3352,
-"Engine_Temperature": 37.9,
-"Battery_Voltage": 7.62,
-"GPS_Latitude": -108.36982065,
-"GPS_Longitude": 47.78793745,
-"GPS_Speed": 128.58,
-"GPS_Direction": 277.4
+"status": "success",
+"min": 1,
+"max": 100,
+"random": 40
 }
+]
