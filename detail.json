@@ -71,7 +71,7 @@
         "AICrit": {
             "ID": "AICrit",
             "Version": "2.0 May 19 2024",
-            "Anomaly": true,
+            "AICrit_Anomaly": 1,
             "Predictions": {
                 "LIT101": 100,
                 "LIT201": 200
@@ -83,7 +83,7 @@
         "DAD": {
             "ID": "DAD",
             "Version": "2.03 April 20 2024",
-            "Anomaly": true,
+            "AICrit_Anomaly": 0,
             "Predictions": {},
             "Message": ["Abnormal change in AIT301", "Abnormal change in AIT401"],
             "TagVals": ["AIT301[100,100,100,100]", "AIT401:[200,200,200]"],
